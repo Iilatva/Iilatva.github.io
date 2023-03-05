@@ -101,25 +101,7 @@ a {
 .btn-block {
   width: 100%;
 }
-/* title */
 
-.title {
-  text-align: center;
-}
-
-.title-underline {
-  background: var(--primary-500);
-  width: 7rem;
-  height: 0.25rem;
-  margin: 0 auto;
-  margin-top: -1rem;
-}
-
-/*
-=============== 
-Navbar
-===============
-*/
 
 .navbar {
   display: flex;
